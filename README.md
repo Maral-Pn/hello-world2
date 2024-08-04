@@ -3,8 +3,4 @@
 # hello-world2
 A repository contains all project files, including the revision history. 
 
-my name is Hossein
-
-
-new changes from local/maral jan 
 
